@@ -1,0 +1,227 @@
+
+
+
+/*//////////////////////
+//       PARALLAX     //
+//////////////////////*/
+
+.parallax {
+    min-height: 600px;
+    background: transparent;
+}
+
+
+
+
+
+body {
+  font-family: "Arial", Serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+
+
+.nav {
+  position: ;
+  top: 0;
+  background: transparent;
+  background-color: #000000;
+  opacity: 0.7;
+  text-align: center;
+}
+
+.nav div {
+  display: inline-block;
+
+}
+
+.nav td {
+  padding: 10px 0px 10px 0px;
+}
+
+.nav a {
+  padding: 10px;
+  text-decoration: none;
+  color: #43d424;
+}
+
+
+
+
+
+.home {
+  height: 675px;
+  /*background: url('../assets/images/serpent.png');*/
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #292929;
+  background-size: cover;
+  text-align: center;
+  border-top: 4px solid #43d424;
+  border-bottom: 4px solid #43d424;
+}
+
+.home h1 {
+  padding: 60px 0px 50px 0px;
+  font-size: 60px;
+  font-family: fantasy;
+  color: #43d424;
+  text-shadow: 3px 3px 3px #ff8200;
+}
+
+.home img {
+  height: 310px;
+  width: 310px;
+  border: 2px solid #43d424;
+  border-radius: 180px;
+}
+
+.home h5 {
+  color: #43d424;
+  padding: 40px 0px 0px 0px;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+
+
+
+
+.gallary {
+  height: 620px;
+  /*background-color: #c3c3c3;*/
+  background-color: #292929;
+  background-size: cover;
+  text-align: center;
+  border-top: 4px solid #43d424;
+  border-bottom: 4px solid #43d424;
+}
+
+.gallary td {
+  margin: 20px 0px 0px 0px;
+}
+
+.gallary img {
+  height: 275px;
+  width: 275px;
+  border-radius: 20px;
+  /*box-shadow: 5px 5px 5px #43d424;*/
+}
+
+
+
+
+
+
+.specs {
+  height: 500px;
+  padding: 50px 0px 0px 0px;
+  background-color: #7e7e7e;
+  text-align: center;
+  border-top: 4px solid #43d424;
+  border-bottom: 4px solid #43d424;
+}
+
+.specs h2 {
+  font-family: fantasy;
+  font-size: 40px;
+}
+
+.specs img {
+  height: 100px;
+  width: 120px;
+}
+
+.specs .colorDots {
+  height: 15px;
+  width: 15px;
+  border-radius: 10px;
+}
+
+.reelSeat img {
+  width: 200px;
+}
+
+.partsImage {
+  margin: 30px 0px 30px 0px;
+}
+
+
+
+
+
+
+
+
+.contact {
+  height: 210px;
+  background-color: #7e7e7e;
+  background-size: cover;
+  border-top: 4px solid #43d424;
+  border-bottom: 4px solid #43d424;
+}
+
+.contactInfo {
+  text-align: center;
+}
+
+.contactInfo h4 {
+  font-size: 30px;
+}
+
+.contactInfo h5 {
+  font-size: 30px;
+}
+
+.contactIcons img {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+
+.contactIcons {
+  padding: 5px 0px 0px 0px;
+  text-align: center;
+}
+
+
+
+
+
+
+@media(max-width: 568px){
+  .contact {
+    height: 900px;
+  }
+
+  .gallary {
+    height: 2400px;
+  }
+
+  .specs {
+    height: 1600px;
+  }
+
+  .specs h2 {
+    margin: 60px 0px 0px 0px;
+    font-size: 50px;
+  }
+
+}
+
+@media(min-width: 568px){
+  .contactIcons img:hover {
+    height: 212px;
+    width: 212px;
+    text-align: center;
+  }
+
+  .nav td:hover {
+    background-color: #343434;
+    border-radius: 10px;
+  }
+
+}
