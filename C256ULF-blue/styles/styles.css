@@ -45,7 +45,7 @@ body {
 .nav a {
   padding: 10px;
   text-decoration: none;
-  color: #43d424;
+  color: #ff8200;
 }
 
 
@@ -60,27 +60,28 @@ body {
   background-color: #292929;
   background-size: cover;
   text-align: center;
-  border-top: 4px solid #43d424;
-  border-bottom: 4px solid #43d424;
+  border-top: 4px solid #ff8200;
+  border-bottom: 4px solid #ff8200;
 }
 
 .home h1 {
   padding: 60px 0px 50px 0px;
   font-size: 60px;
   font-family: fantasy;
-  color: #43d424;
-  text-shadow: 3px 3px 3px #ff8200;
+  color: #ff8200;
+  text-shadow: 3px 3px 3px #ffffff;
 }
 
 .home img {
   height: 310px;
   width: 310px;
-  border: 2px solid #43d424;
+  border: 2px solid #ff8200;
   border-radius: 180px;
+  transform: rotate(90deg);
 }
 
 .home h5 {
-  color: #43d424;
+  color: #ff8200;
   padding: 40px 0px 0px 0px;
   font-size: 20px;
   font-family: cursive;
@@ -96,8 +97,8 @@ body {
   background-color: #292929;
   background-size: cover;
   text-align: center;
-  border-top: 4px solid #43d424;
-  border-bottom: 4px solid #43d424;
+  border-top: 4px solid #ff8200;
+  border-bottom: 4px solid #ff8200;
 }
 
 .gallary td {
@@ -108,7 +109,7 @@ body {
   height: 275px;
   width: 275px;
   border-radius: 20px;
-  /*box-shadow: 5px 5px 5px #43d424;*/
+  /*box-shadow: 5px 5px 5px #ff8200;*/
 }
 
 
@@ -121,8 +122,8 @@ body {
   padding: 50px 0px 0px 0px;
   background-color: #7e7e7e;
   text-align: center;
-  border-top: 4px solid #43d424;
-  border-bottom: 4px solid #43d424;
+  border-top: 4px solid #ff8200;
+  border-bottom: 4px solid #ff8200;
 }
 
 .specs h2 {
@@ -160,8 +161,8 @@ body {
   height: 210px;
   background-color: #7e7e7e;
   background-size: cover;
-  border-top: 4px solid #43d424;
-  border-bottom: 4px solid #43d424;
+  border-top: 4px solid #ff8200;
+  border-bottom: 4px solid #ff8200;
 }
 
 .contactInfo {
