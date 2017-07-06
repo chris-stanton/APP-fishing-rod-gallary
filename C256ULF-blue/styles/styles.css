@@ -22,6 +22,7 @@ body {
 
 
 
+
 .rotate90 {
   transform: rotate(90deg);
 }
@@ -29,12 +30,11 @@ body {
 
 
 
+
 .nav {
   position: ;
   top: 0;
-  background: transparent;
-  background-color: #000000;
-  opacity: 0.7;
+  background-color: #ff8200;
   text-align: center;
 }
 
@@ -50,7 +50,7 @@ body {
 .nav a {
   padding: 10px;
   text-decoration: none;
-  color: #ff8200;
+  color: #ffffff;
 }
 
 
@@ -62,7 +62,7 @@ body {
   /*background: url('../assets/images/serpent.png');*/
   background-repeat: no-repeat;
   background-size: contain;
-  background-color: #292929;
+  background-color: #1523a1;
   background-size: cover;
   text-align: center;
   border-top: 4px solid #ff8200;
@@ -98,8 +98,7 @@ body {
 
 .gallary {
   height: 620px;
-  /*background-color: #c3c3c3;*/
-  background-color: #292929;
+  background-color: #1523a1;
   background-size: cover;
   text-align: center;
   border-top: 4px solid #ff8200;
@@ -126,7 +125,8 @@ body {
 .specs {
   height: 500px;
   padding: 50px 0px 0px 0px;
-  background-color: #7e7e7e;
+  background-color: #1523a1;
+  color: #ffffff;
   text-align: center;
   border-top: 4px solid #ff8200;
   border-bottom: 4px solid #ff8200;
@@ -165,7 +165,7 @@ body {
 
 .contact {
   height: 210px;
-  background-color: #7e7e7e;
+  background-color: #1523a1;
   background-size: cover;
   border-top: 4px solid #ff8200;
   border-bottom: 4px solid #ff8200;
@@ -230,7 +230,7 @@ body {
   }
 
   .nav td:hover {
-    background-color: #343434;
+    background-color: #cb6e0d;
     border-radius: 10px;
   }
 
