@@ -10,7 +10,8 @@ body {
 }
 
 .rodContainer {
-
+  display: inline-block;
+  width: 100%;
 }
 
 img {
