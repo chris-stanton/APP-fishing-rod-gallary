@@ -1,4 +1,7 @@
 
+html, section {
+  background-color: #000000;
+}
 
 .nav img {
   height: 250px;
