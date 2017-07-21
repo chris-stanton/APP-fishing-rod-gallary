@@ -1,19 +1,29 @@
 
-html, section {
-  background-color: #000000;
+body {
+  margin: 0px;
+  padding: 0px;
 }
 
-.nav img {
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.rodContainer {
+
+}
+
+img {
   height: 250px;
   width: 250px;
   border: 5px solid #9c9c9c;
   border-radius: 125px;
 }
 
-.nav #C256ULF {
+#C256ULF {
   transform: rotate(90deg);
 }
 
-.nav #turbes {
+#turbes {
   transform: rotate(90deg);
 }
