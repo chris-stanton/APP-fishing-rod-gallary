@@ -52,6 +52,11 @@ html, body {
   line-height: 30%;
 }
 
+.band {
+  background-color: #000000;
+  color: #ffffff;
+}
+
 .band h1 {
   font-family: Helvetica;
   font-weight: 300;
@@ -59,6 +64,7 @@ html, body {
   font-size: 275%;
   padding-top: 20px;
   padding-bottom: 20px;
+  margin: 0px;
 }
 
 .sub-caption {
