@@ -1,4 +1,4 @@
-# Lamborghini Aventador Parallax Website
+# RodGeeks C266MLF Rod for John Turbes
 
 ---
 
@@ -17,28 +17,25 @@
 ---
 
 ### Description:
-###### An HTML and CSS remake of an Lamborghini Aventador.
+###### RodGeeks C266MLF Rod for John Turbes.  RodGeeks blank C266MLF with Fuji S2K spinning reel seat and Fuji K-Series guides.
 
 
 - *Desktop View1*
 
 
-  <img src="./public/assets/images/screenshots/screenshotOne.png" width="80%">
+  <img src="" width="80%">
 
 - *Desktop View2*
 
 
-  <img src="./public/assets/images/screenshots/screenshotTwo.png" width="80%">
+  <img src="" width="80%">
 
 
 - *Desktop View3*
 
 
-  <img src="./public/assets/images/screenshots/screenshotThree.png" width="80%">
+  <img src="" width="80%">
 
----
-
-#### App can be viewed at: https://parallaxlambo.herokuapp.com/
 
 ---
 

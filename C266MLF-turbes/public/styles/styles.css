@@ -15,21 +15,21 @@ html, body {
 }
 
 .first {
-  background-image: url(../assets/images/pic_one.png);
+  background-image: url(../assets/images/6.png);
 }
 
 .second {
-  background-image: url(../assets/images/engineBay.jpg);
+  background-image: url(../assets/images/5.png);
   height: 72%;
 }
 
 .three {
-  background-image: url(../assets/images/pic_three.png);
+  background-image: url(../assets/images/3.png);
   height: 72%;
 }
 
 .four {
-  background-image: url(../assets/images/tailpipes.jpg);
+  background-image: url(../assets/images/4.png);
   height: 72%;
 }
 
